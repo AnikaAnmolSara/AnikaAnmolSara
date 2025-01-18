@@ -1,6 +1,6 @@
 # Anika Anmol Sara
 
-👋 Hello there! I'm Anika Anmol Sara, a passionate web developer and recent graduate from East West University, with a degree in Computer Science and Engineering (CSE).
+👋 Hello there! I'm Anika Anmol Sara, a passionate web developer, graduate from East West University, with a degree in Computer Science and Engineering (CSE).
 
 ## About Me
 
